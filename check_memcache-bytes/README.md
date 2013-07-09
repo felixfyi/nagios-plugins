@@ -7,6 +7,9 @@ Requirements:
 * installed Rubygem 'memcache'
 
 On Debian:
+
     apt-get install libmemcache-client-ruby
+
 Alternatively you can run:
+
     bundle install
